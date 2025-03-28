@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8300ede-c504-49d8-9ea5-095ba2922a6d" width="500"/><br/>
+  <img src="https://github.com/user-attachments/assets/bf1a1616-84ee-4956-bc24-dc6e34899589" width="500"/><br/>
   <i>Table 2</i><br/><br/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ae0f486-dfb5-4213-9f9b-0e6bf42b3fa3" width="500"/><br/>
+  <img src="https://github.com/user-attachments/assets/3b5f26c2-073f-43ee-8f1e-916072824ef0" width="500"/><br/>
   <i>Table 3</i><br/><br/>
 </p>
