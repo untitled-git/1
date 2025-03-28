@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cf81d16-f163-4b76-ac64-f24206289672" width="400"/>
-  <img src="https://github.com/user-attachments/assets/b8300ede-c504-49d8-9ea5-095ba2922a6d" width="400"/>
-  <img src="https://github.com/user-attachments/assets/6ae0f486-dfb5-4213-9f9b-0e6bf42b3fa3" width="400"/><br/>
+  <img src="https://github.com/user-attachments/assets/4cf81d16-f163-4b76-ac64-f24206289672" width="500"/>
+  <img src="https://github.com/user-attachments/assets/b8300ede-c504-49d8-9ea5-095ba2922a6d" width="500"/>
+  <img src="https://github.com/user-attachments/assets/6ae0f486-dfb5-4213-9f9b-0e6bf42b3fa3" width="500"/><br/>
   <i>Table 1</i> &nbsp;&nbsp;&nbsp;&nbsp;
   <i>Table 2</i> &nbsp;&nbsp;&nbsp;&nbsp;
   <i>Table 3</i>
