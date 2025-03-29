@@ -19,6 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b5f26c2-073f-43ee-8f1e-916072824ef0" width="500"/><br/>
+  <img src="https://github.com/user-attachments/assets/de9fb622-6e94-4c67-96cd-69813ca2382b" width="500"/><br/>
   <i>Table 3</i><br/><br/>
 </p>
