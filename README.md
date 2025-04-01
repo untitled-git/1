@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f844665-0a81-4152-9bd5-792cb72b4485" width="800"/><br/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/715ab3eb-8692-49d9-b4d2-717d0c20e744" width="800"/><br/>
 </p>
 
