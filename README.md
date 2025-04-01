@@ -1,4 +1,4 @@
-<p align="center">
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/9126893c-05a4-481c-843b-e6271008265f" /><p align="center">
   <img src="https://github.com/user-attachments/assets/1c3d2ddf-1b84-4ae4-8f53-8449ab87fb03" width="800"/><br/>
 </p>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3c872923-3391-4639-b941-4ce46e8e7ffd" width="800"/><br/>
+  <img src="https://github.com/user-attachments/assets/715ab3eb-8692-49d9-b4d2-717d0c20e744" width="800"/><br/>
 </p>
 
 <p align="center">
