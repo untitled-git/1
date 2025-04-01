@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99d17452-a98e-4d5a-9734-c224a5615493" width="800"/><br/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/c5d79175-d547-429a-8b22-9b4ea7ea9bd2" width="800"/><br/>
 </p>
 <p align="center">
