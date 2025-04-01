@@ -27,3 +27,10 @@
   <img src="https://github.com/user-attachments/assets/de9fb622-6e94-4c67-96cd-69813ca2382b" width="500"/><br/>
   <i>Table 3</i><br/><br/>
 </p>
+
+
+![final_fig1](https://github.com/user-attachments/assets/3bde59da-e38e-4d6d-9691-bfcbda8e6aa8)
+![final_fig2](https://github.com/user-attachments/assets/a835958b-2d82-4356-811e-a977d14f5adf)
+![final_fig3](https://github.com/user-attachments/assets/a7cb5946-d131-49c9-a13a-af7d9a618567)
+![final_fig4](https://github.com/user-attachments/assets/b676b91a-10ac-45f1-878a-8762a64b9f89)
+![final_fig5](https://github.com/user-attachments/assets/27228bcc-04a9-4834-9cf0-ce76f801b127)
